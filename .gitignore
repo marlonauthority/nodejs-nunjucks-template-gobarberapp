@@ -1,0 +1,5 @@
+node_modules
+tmp/*
+!tmp/.gitkeep
+src/public/images/.DS_Store
+.DS_Store
